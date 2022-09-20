@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkumar02&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkumar02" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/saurabhkumar02](https://github.com/saurabhkumar02)
+[![Linkedin: Rahul](https://img.shields.io/badge/-Saurabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-singh-4909b092/)](https://www.linkedin.com/in/saurabh-singh-4909b092/)
+![GitHub followers](https://img.shields.io/github/followers/saurabhkumar02?label=Followers&style=social)
+![Profile views](https://gpvc.arturio.dev/saurabhkumar02)
 
-- 📫 How to reach me **kumarsaurabhssm01@gmail.com**
+<img alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" align="right"/>
 
-- 📄 My Portfolio -> [https://saurabhkumar02.github.io/portfolio/](https://saurabhkumar02.github.io/portfolio/)
+- 🎓 I’m currently Studying **Computer Science and engineering**
+- 💡 Some technologies I enjoy working with **include Java, HTML.**
+- 🌱 I'm on track for learning **more about mongoDB and Algorithms.**
+- 💬 Love to code in **Java**
+- 📫 How to reach me - You can mail me at **kumarsaurabhssm01@gmail.com**
+- 📄 My portfolio -> [https://saurabhkumar02.github.io/portfolio/](https://saurabhkumar02.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +27,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhkumar02&show_icons=true&locale=en&layout=compact" alt="saurabhkumar02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar02&" alt="saurabhkumar02" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhkumar02&show_icons=true) <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar02&" alt="saurabhkumar02" /></p>
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saurabhkumar02)
